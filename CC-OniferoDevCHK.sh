@@ -109,3 +109,82 @@ fi
 
 if [ $bro = 14 ] || [ $bro = 14 ]
 
+fi
+if [ $bro = 14 ] || [ $bro = 14 ]
+then
+clear
+figlet "MundoNetRH" | lolcat
+php cc-is.php
+fi
+
+if [ $bro = 15 ] || [ $bro = 15 ]
+then
+clear
+figlet "MundoNetRH" | lolcat
+php cc-nl.php
+fi
+
+if [ $bro = 16 ] || [ $bro = 16 ]
+then
+clear
+figlet "MundoNetRH" | lolcat
+php cc-no.php
+fi
+
+if [ $bro = 17 ] || [ $bro = 17 ]
+then
+clear
+figlet "MundoNetRH" | lolcat
+php cc-pl.php
+fi
+
+if [ $bro = 18 ] || [ $bro = 18 ]
+then
+clear
+figlet "MundoNetRH" | lolcat
+php cc-pt.php
+fi
+
+if [ $bro = 19 ] || [ $bro = 19 ]
+then
+clear
+figlet "MundoNetRH" | lolcat
+php cc-sl.php
+fi
+
+if [ $bro = 20 ] || [ $bro = 20 ]
+then
+clear
+figlet "MundoNetRH" | lolcat
+php cc-sp.php
+fi
+
+if [ $bro = 21 ] || [ $bro = 21 ]
+then
+clear
+figlet "MundoNetRH" | lolcat
+php cc-sw.php
+fi
+
+if [ $bro = 22 ] || [ $bro = 22 ]
+then
+clear
+figlet "MundoNetRH" | lolcat
+php cc-sz.php
+fi
+
+if [ $bro = 23 ] || [ $bro = 23 ]
+then
+clear
+figlet "MundoNetRH" | lolcat
+php cc-tn.php
+fi
+
+if [ $bro = 24 ] || [ $bro = 24 ]
+then
+figlet "MundoNetRH" | lolcat
+sleep 2
+python3 salida.py
+sleep 1
+exit
+
