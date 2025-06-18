@@ -187,4 +187,5 @@ sleep 2
 python3 salida.py
 sleep 1
 exit
+fi
 
